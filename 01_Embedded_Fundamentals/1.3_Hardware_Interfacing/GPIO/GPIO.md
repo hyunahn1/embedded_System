@@ -1722,5 +1722,3 @@ V_IL ─┤─── 이 아래는 확실히 LOW (0)
 // 3. 최대 출력 전류 (LED 직접 구동 가능?)
 // 4. 전체 포트 최대 전류 (모든 핀 합산)
 ```
-
-**참고:** 자세한 전기적 사양은 `00. Hardware Fundamentals > 0.3 Digital Logic & Interface`에서 확인하세요.
